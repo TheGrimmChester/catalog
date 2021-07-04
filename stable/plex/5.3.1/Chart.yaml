@@ -6,7 +6,7 @@ dependencies:
   version: 6.5.0
 deprecated: false
 description: Plex Media Server
-home: https://github.com/truecharts/apps/tree/master/charts/stable/plex
+home: https://github.com/TheGrimmChester/apps/tree/master/charts/stable/plex
 icon: https://www.plex.tv/wp-content/uploads/2018/01/pmp-icon-1.png
 keywords:
 - plex
